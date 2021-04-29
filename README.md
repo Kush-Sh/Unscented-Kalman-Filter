@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Kush-Sh/Unscented-Kalman-Filter/blob/main/media/media/ukf_highway_tracked.gif" width="700" height="400" />
 
-In this project you will implement an Unscented Kalman Filter to estimate the state of multiple cars on a highway using noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower that the tolerance outlined in the project rubric. 
+In this project implementing an Unscented Kalman Filter to estimate the state of multiple cars on a highway using noisy lidar and radar measurements. Fusing the sensor data is done by Kalman Filter to track the locations of the cars in the Environment.
 
 The main program can be built and ran by doing the following from the project top directory.
 
